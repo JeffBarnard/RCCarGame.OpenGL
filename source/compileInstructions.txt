@@ -1,0 +1,17 @@
+
+Set the following options in Visual Studio .NET
+
+project properties->Linker->Input->Addition Dependencies:  
+OpenGL32.lib GLu32.lib GLaux.lib fmodvc.lib
+
+The development version of fmod is included in this directory.  
+Please place the newest .lib and .dll in your "visual studio/vc7/lib" and "windows/system32" directories.
+
+If you recieve errors regarding GL_EXT_texture_cube_map while compiling, please
+uncomment the #defines located in glsetup.h
+
+
+Please run the RC Car Game.exe from the "RC Car Game/system" directory.
+
+
+
