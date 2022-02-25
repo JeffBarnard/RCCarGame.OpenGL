@@ -4,6 +4,10 @@ A 3D racing game created for my Seneca college final year team project, written 
 RC Car Game is a fast paced one and two player arcade style racing game.
 Featuring multiple cars and tracks, high scores, a full soundtrack and realistic physics!!
 
+Developed by:
+Jeff Barnard, Pat Crawford and Radek Koncewicz
+---------------------------------------------
+
 ![plot](./development%20docs/images/MenuSelect.png)
 
 ![plot](./development%20docs/images/Menu.png)
@@ -17,12 +21,6 @@ Featuring multiple cars and tracks, high scores, a full soundtrack and realistic
 ![plot](./development%20docs/images/FerrariBox.png)
 
 ![plot](./development%20docs/images/WireFrame.png)
-
-
-  
-Developed by:
-Jeff Barnard, Pat Crawford and Radek Koncewicz
----------------------------------------------
 
 
   1  System Requirements
