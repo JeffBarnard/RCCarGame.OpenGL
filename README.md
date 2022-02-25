@@ -20,7 +20,7 @@ Featuring multiple cars and tracks, high scores, a full soundtrack and realistic
 
 
   
-
+Developed by:
 Jeff Barnard, Pat Crawford and Radek Koncewicz
 ---------------------------------------------
 
