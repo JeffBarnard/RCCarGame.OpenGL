@@ -8,19 +8,19 @@ Developed by:
 Jeff Barnard, Pat Crawford and Radek Koncewicz
 ---------------------------------------------
 
-![plot](./development%20docs/images/MenuSelect.png)
+<img src="./development%20docs/images/MenuSelect.png" height="600">
 
-![plot](./development%20docs/images/Menu.png)
+<img src="./development%20docs/images/Menu.png" height="600">
 
-![plot](./development%20docs/images/SplitScreen.png)
+<img src="./development%20docs/images/SplitScreen.png" height="600">
 
-![plot](./development%20docs/images/Buggy0.png)
+<img src="./development%20docs/images/Buggy0.png" height="600">
 
-![plot](./development%20docs/images/Buggy2.png)
+<img src="./development%20docs/images/Buggy2.png" height="600">
 
-![plot](./development%20docs/images/FerrariBox.png)
+<img src="./development%20docs/images/FerrariBox.png" height="600">
 
-![plot](./development%20docs/images/WireFrame.png)
+<img src="./development%20docs/images/WireFrame.png" height="600">
 
 
   1  System Requirements
